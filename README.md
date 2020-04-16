@@ -4,7 +4,7 @@ Utils for SUMO Simulator
 - Can produce SUMO Trips from from departure schedule. 
 
 ## GetStarted
-translate with maven and try example in path ```D:\Stuff\git\sumo-Utils\src\main\java\de\frittenburger\sumo\cli\Example.java```
+Translate with maven and try example in path ```src\main\java\de\frittenburger\sumo\cli\Example.java```
 
 Produces trips for train station "Frankfurt(Main) Hbf". 
 Departure schedule is downloaded from "https://dbf.finalrewind.org/FF.json?version=3"
