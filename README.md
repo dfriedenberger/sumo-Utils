@@ -1,7 +1,7 @@
 # sumo-Utils
 Utils for SUMO Simulator 
 
-- Can produce SUMO Trips from from departure schedule. 
+- Can produce SUMO Trips from departure schedule. 
 
 ## GetStarted
 Translate with maven and try example in path ```src\main\java\de\frittenburger\sumo\cli\Example.java```
