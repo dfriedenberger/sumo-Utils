@@ -1,0 +1,16 @@
+Frankfurt(Main)Süd = suedbahnhof
+Frankfurt-Niederrad = niederrad
+Frankfurt(Main)West = messe
+Aschaffenburg Hbf = suedbahnhof
+Hanau Hbf = suedbahnhof
+Frankfurt(M) Flughafen Fernbf = niederrad
+Mannheim Hbf = luisa
+Darmstadt Hbf = luisa
+Darmstadt Nord = luisa
+Frankfurt-Höchst = westhafen
+Fulda = suedbahnhof
+Kassel-Wilhelmshöhe = suedbahnhof
+Neu-Isenburg = luisa
+Gießen = messe
+Koblenz Hbf = niederrad
+Hannover Hbf = suedbahnhof

@@ -1,0 +1,17 @@
+#Node Suedbahnhof
+suedbahnhof = 1716041009 
+
+#Node Frankfurt Luisa
+luisa = 222257906
+
+#Node Frankfurt Niederrad
+niederrad = 564698198
+
+#Node Frankfurt Westhafen
+westhafen = 2340152555
+
+#Node Frankfurt Westkreuz
+westkreuz = 2947858398
+
+#Node Frankfurt Messe
+messe = 2215079389
